@@ -28,11 +28,11 @@ If the measured distance is greater than the predefined threshold, the robot mov
 
 ### Robot Turning Left
 
-![Turn Left](Turn_Left.png)
+![Turn Left](Turn-Left.png)
 
 ### Robot Turning Right
 
-![Turn Right](Turn_Right.png)
+![Turn Right](Turn-Right.png)
 
 ### Robot Moving Forward
 
